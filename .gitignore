@@ -11,3 +11,6 @@
 /build
 /captures
 .externalNativeBuild
+.idea/
+app/src/test/java/com/wuhai/myclient/ExampleUnitTest.java
+gradle/
